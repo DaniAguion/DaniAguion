@@ -1,5 +1,5 @@
 <h1 align="center"><b>Daniel Álvarez Aguión</b></h1>
-<img src="https://github.com/user-attachments/assets/6e94a765-0cbf-4d8f-a985-3299f831fdcf">
+<img src="https://github.com/user-attachments/assets/6e94a765-0cbf-4d8f-a985-3299f831fdcf" alt="Matrix animation">
 
 
 <h2>Heeey! I'm Dani ✌🏼</h2>
@@ -7,18 +7,20 @@ Mobile developer specialized in Android development. I work remotely for MasOran
 
 <h4 align="center">Native application development using current technologies for:</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://github.com/user-attachments/assets/2e5a7cf0-1e4a-4345-9861-64bc00a239b2" alt="Android">
+  <img src="https://github.com/user-attachments/assets/375c5e60-25b9-4431-9f15-7db023a5be79" alt="iOS">
+  
+
 </div>
 
 <h4 align="center">Tech Stack</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://github.com/user-attachments/assets/0fc7f82c-3423-44af-a148-3bef490df5dd" alt="Kotlin">
+  <img src="https://github.com/user-attachments/assets/ea1e892d-2473-4acc-80f9-2abe36443e44" alt="Swift">
+  <img src="https://github.com/user-attachments/assets/6f69550c-5bcf-4d07-abf9-cf8acfb28d20" alt="Typescript">
+  <img src="https://github.com/user-attachments/assets/cf06dcc8-1efe-4850-b8aa-d55f1123c7de" alt="Html5">
+  <img src="https://github.com/user-attachments/assets/e49dcc18-3d62-44da-80c5-5fca28da02b4" alt="CSS">
+  <img src="https://github.com/user-attachments/assets/4c2005b6-dc1f-417e-a7dd-36631d0f62a0" alt="Firebase">
 </div>
 
 <h4 align="center">About me</h4>
