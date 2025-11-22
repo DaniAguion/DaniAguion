@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
 <h2>Heeey! I'm Dani ✌🏼</h2>
-Mobile developer specialized in native environments, mainly Android. I work remotely for MasOrange from Pontevedra, Spain, as part of a team focused on multi-brand development.
+Mobile developer specialized in Android development. I work remotely for MasOrange from Pontevedra, Spain, as part of a team focused on multi-brand development.
 
 <h4 align="center">Native application development using current technologies for:</h4>
 <div align="center">
