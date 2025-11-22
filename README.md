@@ -1,5 +1,6 @@
 <h1 align="center"><b>Daniel Álvarez Aguión</b></h1>
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+<img src="https://github.com/user-attachments/assets/6e94a765-0cbf-4d8f-a985-3299f831fdcf">
+
 
 <h2>Heeey! I'm Dani ✌🏼</h2>
 Mobile developer specialized in Android development. I work remotely for MasOrange from Pontevedra, Spain, as part of a team focused on multi-brand development.
